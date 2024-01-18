@@ -1,0 +1,29 @@
+Q?Why do you like to join as a Software developer?
+
+So, I can get paid for solving interesting problems.
+
+Q>List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+1. ChatGPT - can solve a huge variety of problems, single-handedly bringing the wave of innovation in AI, which has a very high potential of massively benefiting all of humanity.
+
+2. Google search engine - enables us to navigate through the ocean of Internet
+
+3. Operating systems - all types of OS fascinate me, they handle the biggest of tasks easily and reliably, which indirectly would mean that every piece of well-engineered software is fascinating and, it's true as well!
+
+Q>List top 3 organisations you like to join in your career & why you like these organisations.
+
+1.Google
+2.Microsoft
+3.OpenAi(if it stays afloat till then)
+All these 3 organizations are actively working on creating the next best thing in tech, and I would like to be a part of it.
+
+Q>How you position yourself in this industry after 2 years.
+
+I imagine myself to become a valuable asset for any software development company, armed with the knowledge of subjects that I find interesting.
+
+Q>List 3 projects / products you have built or have planned to build in the upcoming year, also
+explain your role in the same
+
+1>A fully functional, scalable E-commerce website, my role would be to learn all the technologies that can make it happen.
+2>Build different types of webapps like Social media app,video streaming app,etc.
+3>BUild a generative AI model
