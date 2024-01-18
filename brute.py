@@ -49,7 +49,7 @@ for product in products:
     product["total"] = product["quantity"] * product["price"]
     total += product["total"]
     totalQuantity += product["quantity"]
-    if product["isGift"] == "yes":
+    if product["isGift"].lower() == "yes":
         fees["giftWrap"] += product["quantity"];
     packages = product["quantity"] / 10;
     if product["quantity"] % 10 == 0:
